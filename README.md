@@ -19,4 +19,4 @@ _The one threat for the humanity which induces cynical belief on reality being p
 - [ ]  Out for Publishing
 
 ***
-elapsed - (?)
+elapsed - (?) -
