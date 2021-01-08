@@ -21,3 +21,7 @@ _The one threat for the humanity which induces cynical belief on reality being p
 
 ***
 elapsed - (?)
+
+## Post Publication 
+
+_An Interactive Dash Board Application Deployement, presenting the valuable insights dervied in the duration of this research term_.
