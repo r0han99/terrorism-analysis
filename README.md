@@ -13,8 +13,8 @@ _The one threat for the humanity which induces cynical belief on reality being p
 
 - [x]  Manual Column Filteration out of 135 from the raw 
 - [x]  Meta Data Creation for the Selected Columns
-- [ ]  Data Preprocessing
-- [ ]  Data Segmentation 
+- [x]  Data Preprocessing
+- [x]  Data Segmentation 
 - [ ]  Analysis 
 - [ ]  Paper 
 - [ ]  Out for Publishing
