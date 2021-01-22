@@ -1,0 +1,7 @@
+Plot information 
+
+- Choropleth Map displaying the affect of Terrorism on Countries Globally. 
+- Timeline-iyears, Timeline plot of aggregate successful instances of terrorism events through the years 
+- Timeline-years+months, Same as the above with more context with the added months 
+- Top20-terrorist-orgs, Top20 Organisations and there percentile of successful terrorism acts they conducted 
+- Major Arsenal, The percentiles of attack methodologies used by the terrorist organisations
